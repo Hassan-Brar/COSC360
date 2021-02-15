@@ -17,7 +17,8 @@ caption {
 }
 
 th {
-  font-weight: bold;
+  font-weight: lighter;
+  font-size: 50%;
   background-color: lightgrey;
 }
 
