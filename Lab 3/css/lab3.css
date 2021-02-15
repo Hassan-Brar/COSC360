@@ -30,3 +30,11 @@ td {
 tbody td:hover {
  background-color: darkred; 
 }
+
+form {
+  background-color: sandybrown;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5pt;
+  padding: 5px;
+}
