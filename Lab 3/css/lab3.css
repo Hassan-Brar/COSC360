@@ -8,7 +8,8 @@ table {
 }
 caption {
   background-color: darkseagreen;
-  padding: 1em;
+  padding: 0.8em;
+  font-weight: bold;
 }
 
 #today {
