@@ -1,1 +1,10 @@
+table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5pt;
+}
 
+#today {
+  background-color: lightskyblue;
+  color: white;
+}
