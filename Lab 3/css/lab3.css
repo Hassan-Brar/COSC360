@@ -15,3 +15,13 @@ caption {
   background-color: lightskyblue;
   color: white;
 }
+
+th {
+  font-weight: bold;
+  background-color: lightgrey;
+}
+
+td { 
+  background-color: lightgrey;
+  padding: 5pt;
+}
