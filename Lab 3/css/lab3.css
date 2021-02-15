@@ -26,6 +26,7 @@ th {
 td { 
   background-color: lightgrey;
   padding: 5pt;
+  box-shadow: inset 1px 1px 3px #000;
 }
 
 tbody td:hover {
