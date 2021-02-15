@@ -20,11 +20,11 @@ caption {
 th {
   font-weight: lighter;
   font-size: 15px;
-  background-color: lightgrey;
+  background-color: whitesmoke;
 }
 
 td { 
-  background-color: lightgrey;
+  background-color: whitesmoke;
   padding: 5pt;
   box-shadow: inset 1px 1px 3px #000;
 }
