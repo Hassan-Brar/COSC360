@@ -3,6 +3,10 @@ table {
   margin-right: auto;
   margin-bottom: 5pt;
 }
+caption {
+  background-color: darkseagreen;
+  padding: 1em;
+}
 
 #today {
   background-color: lightskyblue;
